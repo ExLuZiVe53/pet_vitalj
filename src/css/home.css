@@ -61,7 +61,7 @@ img {
 
 * {
   box-sizing: border-box;
-  outline: 1px solid lightseagreen;
+  /* outline: 1px solid lightseagreen; */
 }
 
 .list {
@@ -843,7 +843,7 @@ p {
 }
 
 /*!==================================================*/
-/* -------SECTION EXLUZIVE-DEALS------- */
+/* -------SECTION EXLUSIVE-DEALS------- */
 
 .exclusive-deals {
   margin-top: 80px;
